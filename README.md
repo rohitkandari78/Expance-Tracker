@@ -2,7 +2,7 @@
  
 A professional, well-organized expense tracking web application with clean separation of concerns.
 
-<a href="expence-traker-min.netlify.app">Live Project Link here
+<a href="https://expence-traker-min.netlify.app/login/login.html">Live Project Link here
 
 ## 📁 Project Structure
 
